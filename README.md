@@ -6,15 +6,15 @@
 
 - 🔭 I’m Studying in **Computer Science & Engineering**
 
-- 🌱 I’m currently learning **Java & JavaScript**
+- 🌱 I’m currently learning **Java ,JavaScript, Data-Structure**
 
 - 👯 I’m looking to collaborate With **Github**
 
-- 💬 Ask me about **C,HTML & CSS**
+- 💬 Ask me about **C,HTML , CSS & Data-Structure**
 
 - 📫 How to reach me **tuhin637bd@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
