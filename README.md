@@ -6,7 +6,7 @@
 
 - 🔭 I’m Studying in **Computer Science & Engineering**
 
-- 🌱 I’m currently learning **Java ,JavaScript, Data-Structure**
+- 🌱 I’m currently learning **Java ,JavaScript, Data-Structure,Python**
 
 - 👯 I’m looking to collaborate With **Github**
 
