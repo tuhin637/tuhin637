@@ -7,6 +7,11 @@
 </p>
 
 ---
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 ## 🌟 About Me
 
@@ -50,11 +55,7 @@ I'm a dedicated Computer Science & Engineering student with a passion for coding
 
 ---
 
-## 📈 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
 
 ---
 
