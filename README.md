@@ -24,131 +24,282 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
+
+<br>
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### 👋 Hi there! I'm Tuhinuzzaman Tuhin
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" align="left">
-
-**Web Developer** | **Full Stack Developer**
-
-🎓 Final Year **Computer Science & Engineering** Student  
-🏫 **Daffodil International University**  
-📍 **Dhaka, Bangladesh** 🇧🇩  
-🎯 **CGPA:** 3.07 / 4.00  
-📅 **Graduating:** 2025
-
-<br>
-
----
-
-### 🚀 What I Do
-
-- 💻 Building **Full Stack Web Applications** with modern technologies
-- 🤖 Researching **Machine Learning** solutions for Healthcare
-- 🎨 Creating **User-Friendly** and **Responsive** web interfaces
-- 📊 Working with **Data Analysis** and **Visualization**
-- 🔧 Solving complex problems with **clean, efficient code**
-
----
-
-### 🎯 Currently
-
-- 🔭 **Working on:** Heart Disease Prediction System (ML Thesis)
-- 🌱 **Learning:** Advanced Web Development & Machine Learning
-- 👯 **Looking for:** Entry-level Web Developer opportunities
-- 💡 **Open to:** Collaborations on real-world projects
-- 💬 **Ask me about:** Web Development, Data Structures, Machine Learning
-
----
-
-### 🛠️ Skills & Expertise
-
-**Frontend Development**  
-🌐 HTML5 • CSS3 • JavaScript • Responsive Design
-
-**Backend Development**  
-⚙️ PHP • MySQL Database Management
-
-**Programming Languages**  
-💻 C • C++ • Java • Python
-
-**Machine Learning & Data Science**  
-🤖 Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • Streamlit
-
-**Tools & Technologies**  
-🔧 Git • GitHub • VS Code • MS Office
-
----
-
-### ⚡ Fun Facts
-
-- 🩸 Active **Blood Donor** - Saving lives regularly
-- 🔐 Member of **Cyber Security Club**
-- 💻 Active in **Computer Programming Club**
-- 🤝 Passionate about **Community Service**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
+</div>
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
+### 👋 Hi, I'm **Tuhinuzzaman Tuhin**
 
-<br><br>
-
-### 📫 Let's Connect!
-
-<div align="center">
-
-📧 **Email**  
-tuhinuzzaman15-4649@diu.edu.bd
-
-📱 **Phone**  
-+880 1792920637
-
-🌐 **Portfolio**  
-[tuhin637.github.io/Portfolio](https://tuhin637.github.io/Portfolio)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&width=435&lines=Web+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br>
 
-<a href="mailto:tuhinuzzaman15-4649@diu.edu.bd">
-  <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://tuhin637.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/Visit-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-### 💼 Looking For
-
-<div align="center">
-
-✅ **Entry-level Web Developer** roles  
-✅ **Freelance** web development projects  
-✅ **Open Source** contributions  
-✅ **Real-world** project collaborations
-
-</div>
-
-<br>
-
-### 🎓 Education
-
-**BSc in Computer Science & Engineering**  
-Daffodil International University  
-Expected: **2025** 🎓  
-CGPA: **3.07** / 4.00
+🎓 **Computer Science & Engineering**  
+🏫 Daffodil International University  
+📍 Dhaka, Bangladesh 🇧🇩  
+🎯 CGPA: **3.07** / 4.00  
+📅 Graduating: **2025**
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
+
+<br>
+
+### 🚀 What I'm All About
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
+
+**💻 Building Solutions**
+
+Creating full-stack web applications with modern technologies and best practices
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
+
+**🤖 ML Research**
+
+Working on healthcare solutions using Machine Learning algorithms
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+
+**📚 Continuous Learning**
+
+Always exploring new technologies and improving skills
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎯 Current Focus & Goals
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔭 Working On
+- 🫀 **Heart Disease Prediction System** (ML Thesis)
+- 🌐 **Full Stack Web Applications**
+- 📊 **Data Analysis & Visualization**
+- 🎨 **Responsive UI/UX Designs**
+
+#### 🌱 Learning
+- Advanced **JavaScript Frameworks**
+- **Machine Learning** Algorithms
+- **Database Optimization**
+- **Cloud Deployment** Technologies
+
+</td>
+<td width="50%" valign="top">
+
+#### 👯 Open For
+- 💼 **Entry-level Web Developer** positions
+- 🤝 **Open Source** contributions
+- 🚀 **Real-world** project collaborations
+- 💡 **Freelance** web development
+
+#### 💬 Ask Me About
+- 🌐 **Web Development** (HTML, CSS, JS, PHP)
+- 🗄️ **Database Management** (MySQL)
+- 🤖 **Machine Learning** (Python, Scikit-learn)
+- 📊 **Data Structures & Algorithms**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+<div align="center">
+
+**🎨 Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+<div align="center">
+
+**⚙️ Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+<div align="center">
+
+**💻 Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<div align="center">
+
+**🤖 Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+<div align="center">
+
+**🛠️ Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+### ⚡ Beyond Code
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="60"><br>
+  <b>🩸 Blood Donor</b><br>
+  <sub>Saving Lives Regularly</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"><br>
+  <b>🔐 Cyber Security</b><br>
+  <sub>Learning & Sharing</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"><br>
+  <b>💻 Programming Club</b><br>
+  <sub>Active Member</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/216644517-ca32e833-f1ca-4c90-a93d-16aa7e959788.gif" width="60"><br>
+  <b>🤝 Volunteering</b><br>
+  <sub>Community Service</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+### 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+**📧 Email**  
+[tuhinuzzaman15-4649@diu.edu.bd](mailto:tuhinuzzaman15-4649@diu.edu.bd)
+
+</td>
+<td align="center">
+
+**📱 Phone**  
+[+880 1792920637](tel:+8801792920637)
+
+</td>
+<td align="center">
+
+**🌐 Portfolio**  
+[tuhin637.github.io/Portfolio](https://tuhin637.github.io/Portfolio)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuhinuzzaman15-4649@diu.edu.bd)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuhin637.github.io/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin637)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
 
 <br>
 
