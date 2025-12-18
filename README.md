@@ -24,60 +24,131 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 Hi there! I'm Tuhinuzzaman Tuhin
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" align="left">
+
+**Web Developer** | **Full Stack Developer**
+
+🎓 Final Year **Computer Science & Engineering** Student  
+🏫 **Daffodil International University**  
+📍 **Dhaka, Bangladesh** 🇧🇩  
+🎯 **CGPA:** 3.07 / 4.00  
+📅 **Graduating:** 2025
 
 <br>
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  university: string;
-  degree: string;
-  location: string;
-  graduating: string;
-  skills: {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    languages: string[];
-    ml: string[];
-  };
-  currentProject: string;
-  lifePhilosophy: string;
-}
+---
 
-const tuhin: Developer = {
-  name: "MD. Tuhinuzzaman Tuhin",
-  role: "Web Developer",
-  university: "Daffodil International University",
-  degree: "BSc in CSE (CGPA: 3.07)",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  graduating: "2025 🎓",
-  
-  skills: {
-    frontend: ["HTML5", "CSS3", "JavaScript"],
-    backend: ["PHP"],
-    database: ["MySQL"],
-    languages: ["C", "C++", "Java", "Python"],
-    ml: ["Scikit-learn", "Pandas", "NumPy"]
-  },
-  
-  currentProject: "Heart Disease Prediction (ML Thesis) 🫀",
-  lifePhilosophy: "Code → Coffee → Repeat ☕💻"
-};
-```
+### 🚀 What I Do
+
+- 💻 Building **Full Stack Web Applications** with modern technologies
+- 🤖 Researching **Machine Learning** solutions for Healthcare
+- 🎨 Creating **User-Friendly** and **Responsive** web interfaces
+- 📊 Working with **Data Analysis** and **Visualization**
+- 🔧 Solving complex problems with **clean, efficient code**
+
+---
+
+### 🎯 Currently
+
+- 🔭 **Working on:** Heart Disease Prediction System (ML Thesis)
+- 🌱 **Learning:** Advanced Web Development & Machine Learning
+- 👯 **Looking for:** Entry-level Web Developer opportunities
+- 💡 **Open to:** Collaborations on real-world projects
+- 💬 **Ask me about:** Web Development, Data Structures, Machine Learning
+
+---
+
+### 🛠️ Skills & Expertise
+
+**Frontend Development**  
+🌐 HTML5 • CSS3 • JavaScript • Responsive Design
+
+**Backend Development**  
+⚙️ PHP • MySQL Database Management
+
+**Programming Languages**  
+💻 C • C++ • Java • Python
+
+**Machine Learning & Data Science**  
+🤖 Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • Streamlit
+
+**Tools & Technologies**  
+🔧 Git • GitHub • VS Code • MS Office
+
+---
+
+### ⚡ Fun Facts
+
+- 🩸 Active **Blood Donor** - Saving lives regularly
+- 🔐 Member of **Cyber Security Club**
+- 💻 Active in **Computer Programming Club**
+- 🤝 Passionate about **Community Service**
+
+</td>
+<td width="40%" valign="top">
 
 <br>
 
-### 🎯 Quick Highlights
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
 
-- 🔭 **Current Focus:** Building Full Stack Web Applications & ML Models
-- 🌱 **Learning:** Advanced Web Technologies, Machine Learning Algorithms
-- 👯 **Open For:** Collaborations on Real-World Projects
-- 💬 **Ask Me About:** Web Development, Data Structures, Machine Learning
-- 📫 **Reach Me:** tuhinuzzaman15-4649@diu.edu.bd
-- ⚡ **Fun Fact:** Active Blood Donor & Cyber Security Enthusiast 🩸🔐
+<br><br>
+
+### 📫 Let's Connect!
+
+<div align="center">
+
+📧 **Email**  
+tuhinuzzaman15-4649@diu.edu.bd
+
+📱 **Phone**  
++880 1792920637
+
+🌐 **Portfolio**  
+[tuhin637.github.io/Portfolio](https://tuhin637.github.io/Portfolio)
+
+<br>
+
+<a href="mailto:tuhinuzzaman15-4649@diu.edu.bd">
+  <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://tuhin637.github.io/Portfolio">
+  <img src="https://img.shields.io/badge/Visit-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+### 💼 Looking For
+
+<div align="center">
+
+✅ **Entry-level Web Developer** roles  
+✅ **Freelance** web development projects  
+✅ **Open Source** contributions  
+✅ **Real-world** project collaborations
+
+</div>
+
+<br>
+
+### 🎓 Education
+
+**BSc in Computer Science & Engineering**  
+Daffodil International University  
+Expected: **2025** 🎓  
+CGPA: **3.07** / 4.00
+
+</td>
+</tr>
+</table>
 
 <br>
 
