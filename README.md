@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FFgradient&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Building+Amazing+Web+Solutions+%F0%9F%9A%80;Passionate+about+Clean+Code+%E2%9C%A8;Let's+Create+Something+Great+Together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FFgradient&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Crafting+Elegant+Web+Solutions+%E2%9C%A8;Code+with+Passion+%7C+Build+with+Purpose+%F0%9F%9A%80;Let's+Transform+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Badges -->
