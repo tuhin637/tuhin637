@@ -508,11 +508,6 @@ An advanced **Machine Learning system** predicting heart disease risk using mult
   <a href="mailto:tuhinuzzaman15-4649@diu.edu.bd">tuhinuzzaman15-4649@diu.edu.bd</a>
 </td>
 <td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/000000/phone.png" width="50"/><br>
-  **📱 Phone**<br>
-  <a href="tel:+8801792920637">+880 1792920637</a>
-</td>
-<td align="center" width="33%">
   <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50"/><br>
   **🌐 Portfolio**<br>
   <a href="https://tuhin637.github.io/Portfolio">Visit My Website</a>
