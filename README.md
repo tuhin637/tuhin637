@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square" alt="focus" />
 </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <img src="https://raw.githubusercontent.com/tuhin637/tuhin637/main/banner.png" alt="Banner" width="100%"/>
-</div>
-
 ---
 
 ## 🙋‍♂️ About Me
