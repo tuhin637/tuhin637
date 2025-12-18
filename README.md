@@ -50,7 +50,7 @@
 </td>
 <td width="45%" valign="top">
 
-<img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Developer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Developer" width="100%"/>
 
 <br>
 
