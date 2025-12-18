@@ -86,7 +86,6 @@ current_role: Final Year CSE Student
 education: 
   university: Daffodil International University
   degree: BSc in Computer Science & Engineering
-  cgpa: 3.07 / 4.00
   graduating: 2025 🎓
 
 interests:
