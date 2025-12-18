@@ -1,11 +1,11 @@
 <!-- Animated Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=250&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=60&fontAlign=50&fontAlignY=35&desc=Web%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descSize=20&descAlign=50&descAlignY=51&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=250&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web%20Developer&descSize=20&descAlign=50&descAlignY=51&animation=twinkling" width="100%"/>
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FFgradient&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Crafting+Elegant+Web+Solutions+%E2%9C%A8;Code+with+Passion+%7C+Build+with+Purpose+%F0%9F%9A%80;Let's+Transform+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FFgradient&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+My+Digital+Space+%F0%9F%91%8B;Building+Amazing+Web+Solutions+%F0%9F%9A%80;Code+with+Passion+%7C+Build+with+Purpose+%F0%9F%92%A1;Let's+Transform+Ideas+into+Reality+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Badges -->
@@ -75,7 +75,7 @@
   
 ## 👋 Hi, I'm **Tuhinuzzaman Tuhin**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=400&lines=Web+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Open+Source+Contributor+%E2%AD%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=400&lines=Web+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%8E%AF;Open+Source+Contributor+%E2%AD%90" alt="Typing SVG" />
 
 <br>
 
@@ -86,6 +86,7 @@ current_role: Final Year CSE Student
 education: 
   university: Daffodil International University
   degree: BSc in Computer Science & Engineering
+  cgpa: 3.07 / 4.00
   graduating: 2025 🎓
 
 interests:
@@ -330,272 +331,4 @@ currently_learning:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</div>
-
-<br>
-
-A fully-functional **full-stack web application** for online food ordering with modern features:
-
-✅ User Authentication & Authorization  
-✅ Dynamic Menu Filtering System  
-✅ Interactive Shopping Cart  
-✅ Real-time Order Tracking  
-✅ Admin Management Panel  
-✅ Payment Gateway Integration  
-✅ Fully Responsive Design  
-
-<br>
-
-<div align="center">
-  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-success?style=for-the-badge)](https://tuhin637.github.io/Food-web/)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-View_Repository-black?style=for-the-badge&logo=github)](https://github.com/tuhin637/Tastekart)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🫀 Heart Disease Prediction</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120"/>
-  
-  <br><br>
-  
-  **ML-Based Healthcare System**
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</div>
-
-<br>
-
-**Undergraduate Thesis Project** at DIU  
-*Supervisor: Ms. Tasfia Anika Bushra*
-
-An advanced **Machine Learning system** predicting heart disease risk using multiple algorithms:
-
-🤖 Random Forest  
-🤖 K-Nearest Neighbors (KNN)  
-🤖 XGBoost  
-🤖 Decision Tree  
-🤖 Support Vector Machine  
-🤖 Naive Bayes  
-🤖 Logistic Regression  
-
-<br>
-
-<div align="center">
-  
-[![Live App](https://img.shields.io/badge/🚀_Live_Application-Launch_App-success?style=for-the-badge&logo=streamlit)](https://heart-disease-mvfoarevmf2psjjugv7jgg.streamlit.app/)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-<!-- GitHub Stats Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-  GitHub Statistics
-</h2>
-
-<br>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tuhin637&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin637&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6E42&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin637&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin637&custom_title=Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=tuhin637&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-<!-- Beyond Code Section -->
-<h2 align="center">⚡ Beyond Code - Extracurricular Activities</h2>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"/><br><br>
-  <img src="https://img.shields.io/badge/Blood_Donor-🩸-red?style=for-the-badge"/><br>
-  <b>Saving Lives</b><br>
-  <sub>Regular blood donor<br>contributing to community health</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/><br><br>
-  <img src="https://img.shields.io/badge/Cyber_Security-🔐-blue?style=for-the-badge"/><br>
-  <b>Security Club</b><br>
-  <sub>Learning & sharing<br>cybersecurity knowledge</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/><br><br>
-  <img src="https://img.shields.io/badge/Programming_Club-💻-green?style=for-the-badge"/><br>
-  <b>Active Member</b><br>
-  <sub>Participating in coding<br>competitions & events</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/216644517-ca32e833-f1ca-4c90-a93d-16aa7e959788.gif" width="100"/><br><br>
-  <img src="https://img.shields.io/badge/Volunteering-🤝-orange?style=for-the-badge"/><br>
-  <b>Community Service</b><br>
-  <sub>Passionate about<br>giving back to society</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-<!-- Connect Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  Let's Connect & Collaborate
-</h2>
-
-<br>
-
-<div align="center">
-
-### 📫 Reach Out To Me
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50"/><br>
-  **📧 Email**<br>
-  <a href="mailto:tuhinuzzaman15-4649@diu.edu.bd">tuhinuzzaman15-4649@diu.edu.bd</a>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/000000/phone.png" width="50"/><br>
-  **📱 Phone**<br>
-  <a href="tel:+8801792920637">+880 1792920637</a>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50"/><br>
-  **🌐 Portfolio**<br>
-  <a href="https://tuhin637.github.io/Portfolio">Visit My Website</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🌐 Social Links
-
-<a href="mailto:tuhinuzzaman15-4649@diu.edu.bd">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/tuhin637">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://tuhin637.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/tuhin637">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/tuhin637">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://www.facebook.com/tuhin637">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-<br><br>
-
-### 💬 Let's Build Something Amazing Together!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+for+collaborations+%F0%9F%A4%9D;Always+ready+to+learn+%F0%9F%93%9A;Let's+create+something+great+%F0%9F%9A%80;Feel+free+to+reach+out+%F0%9F%93%A8" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-<!-- Quote Section -->
-<div align="center">
-
-### 💭 Developer's Mantra
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
-<br>
-
-<!-- Footer Section -->
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-### ⭐ Show Some Love - Star My Repositories!
-
-<br>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-
-<br><br>
-
-**Made with ❤️ by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
-
-*Daffodil International University | BSc in CSE | Class of 2025*
-
-<br>
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=tuhin637&icon=6&color=6)
-
-<br>
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=150&section=footer" width="100%"/>
-
-</div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=
