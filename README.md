@@ -9,42 +9,71 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813108-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/tuhin637/tuhin637/main/banner.png" alt="Banner" width="100%"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```javascript
-const tuhin = {
-  title: "Web Developer 💻",
-  university: "Daffodil International University",
-  degree: "BSc in CSE (CGPA: 3.07)",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  graduating: "2025 🎓",
-  
-  skills: {
-    web: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-    programming: ["C", "C++", "Java", "Python"],
-    ml: ["Scikit-learn", "Pandas", "NumPy"]
-  },
-  
-  currently: "Building Real-World Solutions 🚀"
-};
-```
+### Hi there! 👋 I'm Tuhinuzzaman Tuhin
 
-💡 **Passionate Web Developer** seeking opportunities to create innovative, user-friendly solutions
+🎓 **Web Developer** | Final Year CSE Student at **Daffodil International University**
 
-🎯 **Currently Working On:** Heart Disease Prediction (ML Thesis) & Full Stack Projects
+📍 Based in **Dhaka, Bangladesh** 🇧🇩
 
-📫 **Reach Me:** tuhinuzzaman15-4649@diu.edu.bd | +880 1792920637
+### 🚀 What I Do
+
+- 💻 Building **Full Stack Web Applications**
+- 🤖 Researching **Machine Learning** for Healthcare
+- 🎨 Creating **User-Friendly** Digital Solutions
+- 📚 Always Learning & Growing
+
+### 💼 Looking For
+
+- Entry-level **Web Developer** opportunities
+- Exciting **Collaboration** on real-world projects
+- **Open Source** contributions
+
+### 🌟 Quick Facts
+
+- 🔭 **Current Focus:** Heart Disease Prediction (ML Thesis)
+- 🌱 **Learning:** Advanced Web Technologies & ML
+- 💬 **Ask me about:** Web Development, Data Structures, ML
+- ⚡ **Fun fact:** Active Blood Donor 🩸
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://i.imgur.com/VqE0Q4m.png" alt="Developer" width="100%"/>
+
+<br>
+
+### 📫 Let's Connect!
+
+📧 **Email:** tuhinuzzaman15-4649@diu.edu.bd
+
+📱 **Phone:** +880 1792920637
 
 🌐 **Portfolio:** [tuhin637.github.io/Portfolio](https://tuhin637.github.io/Portfolio)
 
-<br clear="right"/>
+<br>
+
+### 🎯 Education
+
+**BSc in Computer Science & Engineering**  
+Daffodil International University  
+CGPA: **3.07** / 4.00  
+Expected Graduation: **2025** 🎓
+
+</td>
+</tr>
+</table>
 
 ---
 
