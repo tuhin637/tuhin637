@@ -63,7 +63,7 @@
 <td width="48%" valign="middle">
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="95%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="95%"/>
 
 <br><br>
 
@@ -414,26 +414,26 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuhin637&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=tuhin637&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=7B2FFF&fire=FF6E42&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuhin637&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=tuhin637&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF6E42&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=c9d1d9" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin637&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin637&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin637&custom_title=Contribution+Graph&bg_color=0d1117&color=00D9FF&line=7B2FFF&point=00D9FF&area=true&hide_border=true" />
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin637&bg_color=0d1117&color=00D9FF&line=7B2FFF&point=00D9FF&area=true&hide_border=true&title=Contribution+Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuhin637&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tuhin637&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 <br>
