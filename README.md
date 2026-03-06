@@ -14,7 +14,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
 </div>
 
@@ -172,7 +171,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%"/>
+
 
 </div>
 
