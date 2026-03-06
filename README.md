@@ -123,56 +123,62 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark&perline=5"/>
+<p>
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="65" height="65" title="C" style="margin:8px"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" title="C++" style="margin:8px"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" title="Java" style="margin:8px"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" title="Python" style="margin:8px"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" title="JavaScript" style="margin:8px"/>
+</p>
 
-</td>
-<td align="center" width="50%">
-
-**🛠️ Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=5"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
+<br>
 
 **🌐 Web Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark&perline=5"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55" height="55" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55" height="55" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55" height="55" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="55" height="55" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55" height="55" style="margin:6px"/>
+</p>
 
-</td>
-</tr>
-</table>
+<br>
+
+**🛠️ Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55" height="55" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" height="55" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="55" height="55" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="55" height="55" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="55" height="55" style="margin:6px"/>
+</p>
 
 <br>
 
 **🤖 Machine Learning & Data Science**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%"/>
 
 </div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                  PROJECTS SECTION                        -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <h2 align="center">
@@ -548,7 +554,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <br><br>
 
-**Made with by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
+**Made with  by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
 
 *Daffodil International University &nbsp;|&nbsp; BSc in Computer Science & Engineering &nbsp;|&nbsp; Class of 2025 🎓*
 
