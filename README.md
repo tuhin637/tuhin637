@@ -3,12 +3,24 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d1a,40:0a0a2e,70:1a0a3e,100:2d1b69&height=280&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=52&fontColor=d8b4fe&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20DIU%20Graduate%202025&descSize=16&descColor=c4b5fd&descAlign=50&descAlignY=65&animation=fadeIn&stroke=7c3aed&strokeWidth=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d1a,40:0a0a2e,70:1a0a3e,100:2d1b69&height=300&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=54&fontColor=d8b4fe&fontAlign=50&fontAlignY=42&desc=—%20MD.%20Tuhinuzzaman%20%7C%20Full%20Stack%20Developer%20—&descSize=15&descColor=c4b5fd&descAlign=50&descAlignY=60&animation=fadeIn&stroke=7c3aed&strokeWidth=3" width="100%"/>
 </div>
+
+<br>
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&italic=true&width=600&height=60&lines=Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Researcher+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Open+Source+Enthusiast+%E2%AD%90" alt="Typing SVG"/>
+
 <br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhinuzzaman-tuhin-549367396)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web-developer-portfolio-orpin.vercel.app/)
@@ -17,9 +29,9 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20Views&color=4f46e5&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20Views&color=7c3aed&style=flat-square)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/tuhin637?label=Followers&style=flat-square&color=4f46e5)
+![Followers](https://img.shields.io/github/followers/tuhin637?label=Followers&style=flat-square&color=7c3aed)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✓-22c55e?style=flat-square)
 
@@ -536,7 +548,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <br><br>
 
-**Made with ❤️ by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
+**Made with by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
 
 *Daffodil International University &nbsp;|&nbsp; BSc in Computer Science & Engineering &nbsp;|&nbsp; Class of 2025 🎓*
 
