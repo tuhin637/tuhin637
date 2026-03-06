@@ -3,7 +3,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,40:16213e,70:0f3460,100:533483&height=280&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20DIU%20Graduate%202025&descSize=16&descColor=e2b4ff&descAlign=50&descAlignY=65&animation=fadeIn&stroke=a855f7&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d1a,40:0a0a2e,70:1a0a3e,100:2d1b69&height=280&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=52&fontColor=d8b4fe&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20DIU%20Graduate%202025&descSize=16&descColor=c4b5fd&descAlign=50&descAlignY=65&animation=fadeIn&stroke=7c3aed&strokeWidth=3" width="100%"/>
 </div>
 
 <div align="center">
@@ -536,7 +536,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <br><br>
 
-**Made with by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
+**Made with ❤️ by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
 
 *Daffodil International University &nbsp;|&nbsp; BSc in Computer Science & Engineering &nbsp;|&nbsp; Class of 2025 🎓*
 
@@ -546,5 +546,5 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:0f3460,100:1a1a2e&height=160&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0a3e,100:0d0d1a&height=160&section=footer&animation=fadeIn" width="100%"/>
 </div>
