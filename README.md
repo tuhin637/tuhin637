@@ -44,8 +44,7 @@
 <tr>
 <td width="50%" valign="middle">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tuhin637/tuhin637/main/assets/developer.png" width="92%" alt="Developer Illustration"
-    onerror="this.onerror=null;this.src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif'"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="92%" alt="Developer Animation"/>
 </div>
 </td>
 <td width="50%" valign="middle">
