@@ -82,11 +82,12 @@
 ```yaml
 name: MD. Tuhinuzzaman Tuhin
 located_in: Dhaka, Bangladesh 🇧🇩
-current_role: Final Year CSE Student
+current_role: Full Stack Web Developer
 education: 
   university: Daffodil International University
   degree: BSc in Computer Science & Engineering
-  graduating: 2025 🎓
+  graduated: 2025 🎓
+  cgpa: 3.11 / 4.00
 
 interests:
   - Web Development
@@ -112,7 +113,7 @@ currently_learning:
 
 <br>
 
-<!-- What I Do Section with Beautiful Cards -->
+<!-- What I Do Section -->
 <h2 align="center">🚀 What I'm All About</h2>
 
 <table>
@@ -153,10 +154,10 @@ currently_learning:
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Currently Working On**
 
-- 🫀 Heart Disease Prediction System (ML Thesis)
 - 🌐 Full Stack Web Applications
 - 📊 Data Analysis & Visualization Projects
 - 🎨 Responsive UI/UX Designs
+- 🚀 Open Source Contributions
 
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> **Learning & Exploring**
 
@@ -170,7 +171,7 @@ currently_learning:
 
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> **Open For Opportunities**
 
-- 💼 Entry-level Web Developer Positions
+- 💼 Web Developer Positions
 - 🤝 Open Source Collaborations
 - 🚀 Real-world Project Partnerships
 - 💡 Freelance Development Work
@@ -192,7 +193,7 @@ currently_learning:
 
 <br>
 
-<!-- Tech Stack Section with Animated Icons -->
+<!-- Tech Stack Section -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"/> 
   Tech Stack & Tools
@@ -310,11 +311,14 @@ currently_learning:
 
 <div align="center">
 
+<!-- Full Stack Projects -->
+<h3>🖥️ Full-Stack Projects</h3>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🍕 TestEkart</h3>
+<h3 align="center">🍕 TasteKart</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/>
@@ -348,7 +352,7 @@ A fully-functional **full-stack web application** for online food ordering with 
 
 <div align="center">
   
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-success?style=for-the-badge)](https://tuhin637.github.io/Food-web/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-success?style=for-the-badge)](http://tastekart.lovestoblog.com/)
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-View_Repository-black?style=for-the-badge&logo=github)](https://github.com/tuhin637/Tastekart)
 
 </div>
@@ -356,42 +360,208 @@ A fully-functional **full-stack web application** for online food ordering with 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🫀 Heart Disease Prediction</h3>
+<h3 align="center">📚 Library Management System</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120"/>
   
   <br><br>
   
-  **ML-Based Healthcare System**
+  **Library Management System with AI Features**
   
   <br>
   
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </div>
 
 <br>
 
-**Undergraduate Thesis Project** at DIU  
-*Supervisor: Ms. Tasfia Anika Bushra*
+A comprehensive **library management system** with smart features:
 
-An advanced **Machine Learning system** predicting heart disease risk using multiple algorithms:
-
-🤖 Random Forest  
-🤖 K-Nearest Neighbors (KNN)  
-🤖 XGBoost  
-🤖 Decision Tree  
-🤖 Support Vector Machine  
-🤖 Naive Bayes  
-🤖 Logistic Regression  
+✅ Dual-Portal System (Admin & User)  
+✅ Automated Fine Calculation  
+✅ QR Code Integration  
+✅ Book Search & Filtering  
+✅ Borrow & Return Management  
+✅ AI-Powered Recommendations  
+✅ Fully Responsive Design  
 
 <br>
 
 <div align="center">
   
-[![Live App](https://img.shields.io/badge/🚀_Live_Application-Launch_App-success?style=for-the-badge&logo=streamlit)](https://heart-disease-mvfoarevmf2psjjugv7jgg.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-success?style=for-the-badge)](http://librarymanagementsystem.gamer.gd/)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-View_Repository-black?style=for-the-badge&logo=github)](https://github.com/tuhin637/Library-management-System)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Frontend Projects -->
+<h3>🎨 Frontend Projects</h3>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🛒 ShopHub</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+  
+  <br><br>
+  
+  **E-Commerce Platform**
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</div>
+
+<br>
+
+✅ Product Catalog  
+✅ Shopping Cart  
+✅ Order Management  
+✅ Responsive Design  
+
+<br>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-success?style=for-the-badge)](https://shop-hub-e-commerce-platform.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻_Code-black?style=for-the-badge&logo=github)](https://github.com/tuhin637/ShopHub--E-Commerce-Platform)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">☕ BrewLab</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+  
+  <br><br>
+  
+  **Coffee Shop Landing Page**
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</div>
+
+<br>
+
+✅ Dynamic Animations  
+✅ Product Catalog  
+✅ Modern UI Design  
+✅ Responsive Layout  
+
+<br>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-success?style=for-the-badge)](https://brewlab-seven.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻_Code-black?style=for-the-badge&logo=github)](https://github.com/tuhin637/brewlab)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🐦 BirdScape</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+  
+  <br><br>
+  
+  **Interactive Photo Carousel**
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</div>
+
+<br>
+
+✅ Smooth Animations  
+✅ Auto-play Feature  
+✅ Interactive Controls  
+✅ Responsive Design  
+
+<br>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-success?style=for-the-badge)](https://bird-scape-interactive-photo-carous.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻_Code-black?style=for-the-badge&logo=github)](https://github.com/tuhin637/BirdScape---Interactive-Photo-Carousel)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Research / Thesis -->
+<h3>🔬 Research & Thesis</h3>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h3 align="center">🫀 Heart Disease Prediction Using Machine Learning</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120"/>
+  
+  <br><br>
+  
+  **ML-Based Healthcare System — Undergraduate Thesis**
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</div>
+
+<br>
+
+**Daffodil International University** | *Supervisor: Ms. Tasfia Anika Bushra, Lecturer, Dept. of CSE*
+
+An advanced **Machine Learning system** predicting heart disease risk using multiple algorithms:
+
+🤖 Random Forest &nbsp;|&nbsp; 🤖 K-Nearest Neighbors (KNN) &nbsp;|&nbsp; 🤖 XGBoost &nbsp;|&nbsp; 🤖 RuleNet  
+🤖 Decision Tree &nbsp;|&nbsp; 🤖 Support Vector Machine (SVM) &nbsp;|&nbsp; 🤖 Naive Bayes &nbsp;|&nbsp; 🤖 Logistic Regression
+
+<br>
+
+<div align="center">
+  
+[![Live App](https://img.shields.io/badge/🚀_Live_Application-Launch_App-success?style=for-the-badge&logo=streamlit)](https://heart-disease-website-ou9g.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-View_Repository-black?style=for-the-badge&logo=github)](https://github.com/tuhin637)
 
 </div>
 
@@ -510,7 +680,7 @@ An advanced **Machine Learning system** predicting heart disease risk using mult
 <td align="center" width="33%">
   <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50"/><br>
   **🌐 Portfolio**<br>
-  <a href="https://tuhin637.github.io/Portfolio">Visit My Website</a>
+  <a href="https://web-developer-portfolio-orpin.vercel.app/">Visit My Website</a>
 </td>
 </tr>
 </table>
@@ -525,10 +695,10 @@ An advanced **Machine Learning system** predicting heart disease risk using mult
 <a href="https://github.com/tuhin637">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://tuhin637.github.io/Portfolio">
+<a href="https://web-developer-portfolio-orpin.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/tuhin637">
+<a href="https://www.linkedin.com/in/tuhinuzzaman-tuhin-549367396">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/tuhin637">
@@ -581,7 +751,7 @@ An advanced **Machine Learning system** predicting heart disease risk using mult
 
 **Made with ❤️ by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
 
-*Daffodil International University | BSc in CSE | Class of 2025*
+*Daffodil International University | BSc in CSE | Class of 2025 🎓*
 
 <br>
 
