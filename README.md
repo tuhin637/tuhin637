@@ -5,7 +5,14 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=50&lines=🚀+Building+Amazing+Web+Solutions;💡+Code+with+Passion+%7C+Build+with+Purpose;🌟+Transforming+Ideas+into+Reality;🎓+BSc+CSE+Graduate+%7C+DIU+2025" alt="Typing SVG" />
+
+<!-- Typing lines as plain text badges instead of broken SVG -->
+<img src="https://img.shields.io/badge/🚀_Building_Amazing_Web_Solutions-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
+<br><br>
+<img src="https://img.shields.io/badge/💡_Code_with_Passion_|_Build_with_Purpose-0D1117?style=for-the-badge&labelColor=0D1117&color=7B2FFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/🎓_BSc_CSE_Graduate_|_DIU_2025-0D1117?style=for-the-badge&labelColor=0D1117&color=0077FF"/>
+
 </div>
 
 <br>
@@ -13,13 +20,13 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/tuhinuzzaman-tuhin-549367396">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/tuhin637">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://web-developer-portfolio-orpin.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:tuhinuzzaman15-4649@diu.edu.bd">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -29,12 +36,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tuhin637&label=Profile+Views&color=0077FF&style=flat-square" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/tuhin637?label=Followers&style=flat-square&color=0077FF&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square&logo=statuspal" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Graduated-2025%20🎓-7B2FFF?style=flat-square" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Graduated-2025-7B2FFF?style=flat-square" />
 </div>
 
 <br>
@@ -46,7 +53,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=40&section=header&text=〔%20ABOUT%20ME%20〕&fontSize=20&fontColor=00D9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=50&text=👨‍💻%20ABOUT%20ME&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -56,24 +63,28 @@
 <td width="48%" valign="middle">
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="95%"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tuhin637&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117&hide_title=true&rank_icon=github" width="100%"/>
 
 </div>
 </td>
-
 <td width="4%"></td>
-
 <td width="48%" valign="middle">
 
 <div align="center">
 
 ## 👋 Hi, I'm **Tuhin**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=360&height=60&lines=Full+Stack+Web+Developer+💻;ML+%26+AI+Researcher+🤖;Open+Source+Enthusiast+⭐;Problem+Solver+🎯" alt="Typing SVG" />
+<br>
+
+<img src="https://img.shields.io/badge/Full_Stack_Web_Developer-00D9FF?style=for-the-badge&logo=html5&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/ML_%26_AI_Researcher-7B2FFF?style=for-the-badge&logo=python&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Problem_Solver-0077FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
@@ -91,7 +102,7 @@
       - Open Source       ⭐
       - Problem Solving   🧠
 
-📖  currently learning:
+📖  learning:
       - Advanced JS & Frameworks ⚡
       - Deep Learning            🔬
       - Cloud (AWS / Azure)      ☁️
@@ -120,7 +131,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=40&section=header&text=〔%20TECH%20STACK%20〕&fontSize=20&fontColor=00D9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=50&text=🛠️%20TECH%20STACK&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -129,37 +140,30 @@
 
 ### 💻 Languages
 
-<p>
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="55" height="55" title="C"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" title="C++"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" title="Java"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" title="Python"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" title="JavaScript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
+
+<br><br>
 
 ### 🎨 Frontend &nbsp;|&nbsp; ⚙️ Backend &nbsp;|&nbsp; 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" />
+
+<br><br>
 
 ### 🤖 Machine Learning & Data Science
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br><br>
 
 ### 🛠️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 
 </div>
 
@@ -172,21 +176,16 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=40&section=header&text=〔%20FEATURED%20PROJECTS%20〕&fontSize=20&fontColor=00D9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=50&text=🗂️%20FEATURED%20PROJECTS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
 
-<div align="center">
-
-### 🖥️ Full-Stack Projects
-
-</div>
+<div align="center"><h3>🖥️ Full-Stack Projects</h3></div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <div align="center">
 
 ### 🍕 TasteKart
@@ -206,25 +205,23 @@
 
 <br>
 
-> 🔐 User Auth & Authorization
-> 🍽️ Dynamic Menu Filtering
-> 🛒 Interactive Shopping Cart
-> 📦 Real-time Order Tracking
-> 👨‍💼 Admin Management Panel
+> 🔐 User Auth & Authorization<br>
+> 🍽️ Dynamic Menu Filtering<br>
+> 🛒 Interactive Shopping Cart<br>
+> 📦 Real-time Order Tracking<br>
+> 👨‍💼 Admin Management Panel<br>
 > 📱 Fully Responsive Design
 
 <br>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](http://tastekart.lovestoblog.com/)
-[![Code](https://img.shields.io/badge/💻_Source-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/Tastekart)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge&logoColor=white)](http://tastekart.lovestoblog.com/)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637/Tastekart)
 
 </div>
-
 </td>
 <td width="50%" valign="top">
-
 <div align="center">
 
 ### 📚 Library Management System
@@ -244,38 +241,32 @@
 
 <br>
 
-> 👥 Dual-Portal (Admin & User)
-> 💰 Automated Fine Calculation
-> 📱 QR Code Integration
-> 🔍 Book Search & Filtering
-> 🔄 Borrow & Return Management
+> 👥 Dual-Portal (Admin & User)<br>
+> 💰 Automated Fine Calculation<br>
+> 📱 QR Code Integration<br>
+> 🔍 Book Search & Filtering<br>
+> 🔄 Borrow & Return Management<br>
 > 🤖 AI-Powered Recommendations
 
 <br>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](http://librarymanagementsystem.gamer.gd/)
-[![Code](https://img.shields.io/badge/💻_Source-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/Library-management-System)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge&logoColor=white)](http://librarymanagementsystem.gamer.gd/)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637/Library-management-System)
 
 </div>
-
 </td>
 </tr>
 </table>
 
 <br>
 
-<div align="center">
-
-### 🎨 Frontend Projects
-
-</div>
+<div align="center"><h3>🎨 Frontend Projects</h3></div>
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
 <div align="center">
 
 ### 🛒 ShopHub
@@ -291,21 +282,20 @@
 
 <br><br>
 
-> 🛍️ Product Catalog
-> 🛒 Shopping Cart
-> 📦 Order Management
+> 🛍️ Product Catalog<br>
+> 🛒 Shopping Cart<br>
+> 📦 Order Management<br>
 > 📱 Responsive Design
 
 <br>
 
-[![Demo](https://img.shields.io/badge/🌐_Demo-00C853?style=for-the-badge)](https://shop-hub-e-commerce-platform.vercel.app/)
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/ShopHub--E-Commerce-Platform)
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00C853?style=for-the-badge)](https://shop-hub-e-commerce-platform.vercel.app/)
+
+[![Code](https://img.shields.io/badge/💻_CODE-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/ShopHub--E-Commerce-Platform)
 
 </div>
-
 </td>
 <td width="33%" valign="top">
-
 <div align="center">
 
 ### ☕ BrewLab
@@ -321,21 +311,20 @@
 
 <br><br>
 
-> ✨ Dynamic Animations
-> ☕ Product Catalog
-> 🎨 Modern UI Design
+> ✨ Dynamic Animations<br>
+> ☕ Product Catalog<br>
+> 🎨 Modern UI Design<br>
 > 📱 Responsive Layout
 
 <br>
 
-[![Demo](https://img.shields.io/badge/🌐_Demo-00C853?style=for-the-badge)](https://brewlab-seven.vercel.app/)
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/brewlab)
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00C853?style=for-the-badge)](https://brewlab-seven.vercel.app/)
+
+[![Code](https://img.shields.io/badge/💻_CODE-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/brewlab)
 
 </div>
-
 </td>
 <td width="33%" valign="top">
-
 <div align="center">
 
 ### 🐦 BirdScape
@@ -351,18 +340,18 @@
 
 <br><br>
 
-> 🎠 Smooth Animations
-> ▶️ Auto-play Feature
-> 🖱️ Interactive Controls
+> 🎠 Smooth Animations<br>
+> ▶️ Auto-play Feature<br>
+> 🖱️ Interactive Controls<br>
 > 📱 Responsive Design
 
 <br>
 
-[![Demo](https://img.shields.io/badge/🌐_Demo-00C853?style=for-the-badge)](https://bird-scape-interactive-photo-carous.vercel.app/)
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/BirdScape---Interactive-Photo-Carousel)
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00C853?style=for-the-badge)](https://bird-scape-interactive-photo-carous.vercel.app/)
+
+[![Code](https://img.shields.io/badge/💻_CODE-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/BirdScape---Interactive-Photo-Carousel)
 
 </div>
-
 </td>
 </tr>
 </table>
@@ -371,12 +360,10 @@
 
 <div align="center">
 
-### 🔬 Research & Thesis
+<h3>🔬 Research & Thesis</h3>
 
 <table>
-<tr>
-<td>
-
+<tr><td>
 <div align="center">
 
 ### 🫀 Heart Disease Prediction Using Machine Learning
@@ -397,20 +384,17 @@
 
 <br><br>
 
-| Algorithm | Algorithm | Algorithm | Algorithm |
-|:---------:|:---------:|:---------:|:---------:|
 | 🌲 Random Forest | 🔵 KNN | ⚡ XGBoost | 📋 RuleNet |
+|:---:|:---:|:---:|:---:|
 | 🌳 Decision Tree | 🔷 SVM | 🎯 Naive Bayes | 📈 Logistic Reg |
 
 <br>
 
-[![Live App](https://img.shields.io/badge/🚀_Launch_Live_App-FF4B4B?style=for-the-badge&logo=streamlit)](https://heart-disease-website-ou9g.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637)
+[![Live App](https://img.shields.io/badge/🚀_LAUNCH_LIVE_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://heart-disease-website-ou9g.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637)
 
 </div>
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 </div>
@@ -424,7 +408,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=40&section=header&text=〔%20GITHUB%20STATS%20〕&fontSize=20&fontColor=00D9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=50&text=📊%20GITHUB%20STATS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -461,7 +445,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=40&section=header&text=〔%20BEYOND%20CODE%20〕&fontSize=20&fontColor=00D9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=50&text=⚡%20BEYOND%20CODE&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -472,7 +456,7 @@
 <td align="center" width="25%">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="85"/><br><br>
   <img src="https://img.shields.io/badge/🩸_Blood_Donor-DC143C?style=for-the-badge"/><br><br>
-  <sub>Regular blood donor<br>contributing to community health</sub>
+  <sub>Regular blood donor<br>for community health</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="85"/><br><br>
@@ -502,7 +486,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=40&section=header&text=〔%20LET'S%20CONNECT%20〕&fontSize=20&fontColor=00D9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=50&text=🤝%20LET'S%20CONNECT&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -530,9 +514,15 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=✦+Open+for+collaborations+🤝;✦+Let's+create+something+great+🚀;✦+Feel+free+to+reach+out+📨" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/✦_Open_for_Collaborations-00D9FF?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/✦_Feel_Free_to_Reach_Out-7B2FFF?style=for-the-badge"/>
 
 <br><br>
+
+---
+
+<br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
