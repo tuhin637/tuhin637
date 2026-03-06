@@ -554,7 +554,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <br><br>
 
-**Made with  by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
+**Made with by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
 
 *Daffodil International University &nbsp;|&nbsp; BSc in Computer Science & Engineering &nbsp;|&nbsp; Class of 2025 🎓*
 
