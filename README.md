@@ -203,8 +203,8 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-22c55e?style=for-the-badge&logoColor=white)](http://tastekart.lovestoblog.com/)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637/Tastekart)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](http://tastekart.lovestoblog.com/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637/Tastekart)
 
 </div>
 
@@ -236,8 +236,8 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-22c55e?style=for-the-badge&logoColor=white)](http://librarymanagementsystem.gamer.gd/)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637/Library-management-System)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](http://librarymanagementsystem.gamer.gd/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637/Library-management-System)
 
 </div>
 
@@ -280,7 +280,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge)](https://shop-hub-e-commerce-platform.vercel.app/)
+[![Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shop-hub-e-commerce-platform.vercel.app/)
 
 [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/ShopHub--E-Commerce-Platform)
 
@@ -311,7 +311,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge)](https://brewlab-seven.vercel.app/)
+[![Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brewlab-seven.vercel.app/)
 
 [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/brewlab)
 
@@ -342,7 +342,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge)](https://bird-scape-interactive-photo-carous.vercel.app/)
+[![Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bird-scape-interactive-photo-carous.vercel.app/)
 
 [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/tuhin637/BirdScape---Interactive-Photo-Carousel)
 
@@ -385,8 +385,8 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <br>
 
-[![Live App](https://img.shields.io/badge/🚀_Launch_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://heart-disease-website-ou9g.vercel.app/)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637)
+[![Live App](https://img.shields.io/badge/Launch_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://heart-disease-website-ou9g.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637)
 
 </div>
 
