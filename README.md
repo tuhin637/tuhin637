@@ -63,7 +63,7 @@
 <td width="48%" valign="middle">
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="95%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="95%"/>
 
 <br><br>
 
@@ -415,7 +415,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuhin637&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin637&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=7B2FFF&fire=FF6E42&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=tuhin637&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=7B2FFF&fire=FF6E42&currStreakLabel=00D9FF" />
 </div>
 
 <br>
@@ -427,13 +427,13 @@
 <br>
 
 <div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin637&custom_title=Contribution+Graph&bg_color=0d1117&color=00D9FF&line=7B2FFF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" />
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin637&custom_title=Contribution+Graph&bg_color=0d1117&color=00D9FF&line=7B2FFF&point=00D9FF&area=true&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuhin637&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tuhin637&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 <br>
@@ -528,7 +528,7 @@
 
 <br><br>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=tuhin637&icon=6&color=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=tuhin637&label=Profile+Views&color=0077FF&style=for-the-badge)
 
 <br>
 
