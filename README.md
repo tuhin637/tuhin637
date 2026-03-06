@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,50:0077FF,100:7B2FFF&height=300&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=✦%20Full%20Stack%20Developer%20✦%20ML%20Researcher%20✦&descSize=18&descColor=00D9FF&descAlign=50&descAlignY=60&animation=twinkling&stroke=00D9FF&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=280&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=✦%20Full%20Stack%20Developer%20%7C%20ML%20Researcher%20✦&descSize=19&descColor=a8d8ff&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -547,5 +547,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FFF,50:0077FF,100:00D9FF&height=180&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=180&section=footer&animation=fadeIn" width="100%"/>
 </div>
