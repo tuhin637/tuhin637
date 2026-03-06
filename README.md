@@ -3,7 +3,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20DIU%20Graduate%202025&descSize=16&descColor=ffffffcc&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=260&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20DIU%20Graduate%202025&descSize=16&descColor=7dd3fc&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -44,7 +44,8 @@
 <tr>
 <td width="50%" valign="middle">
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="92%"/>
+  <img src="https://raw.githubusercontent.com/tuhin637/tuhin637/main/assets/developer.png" width="92%" alt="Developer Illustration"
+    onerror="this.onerror=null;this.src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif'"/>
 </div>
 </td>
 <td width="50%" valign="middle">
@@ -536,7 +537,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <br><br>
 
-**Made with ❤️ by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
+**Made with by [Tuhinuzzaman Tuhin](https://github.com/tuhin637)**
 
 *Daffodil International University &nbsp;|&nbsp; BSc in Computer Science & Engineering &nbsp;|&nbsp; Class of 2025 🎓*
 
@@ -546,5 +547,5 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,60:203a43,100:0f2027&height=160&section=footer&animation=fadeIn" width="100%"/>
 </div>
