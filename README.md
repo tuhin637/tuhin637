@@ -3,14 +3,14 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d1a,40:0a0a2e,70:1a0a3e,100:2d1b69&height=300&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=54&fontColor=d8b4fe&fontAlign=50&fontAlignY=42&desc=—%20MD.%20Tuhinuzzaman%20%7C%20Full%20Stack%20Developer%20—&descSize=15&descColor=c4b5fd&descAlign=50&descAlignY=60&animation=fadeIn&stroke=7c3aed&strokeWidth=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d1a,40:0a0a2e,70:0a1f0a,100:0d2d1a&height=300&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=54&fontColor=4ade80&fontAlign=50&fontAlignY=42&desc=—%20MD.%20Tuhinuzzaman%20%7C%20Full%20Stack%20Developer%20—&descSize=15&descColor=86efac&descAlign=50&descAlignY=60&animation=fadeIn&stroke=22c55e&strokeWidth=3" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&italic=true&width=600&height=60&lines=Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Researcher+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Open+Source+Enthusiast+%E2%AD%90" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&italic=true&width=600&height=60&lines=Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Researcher+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Open+Source+Enthusiast+%E2%AD%90" alt="Typing SVG"/>
 
 <br>
 
@@ -29,9 +29,9 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20Views&color=7c3aed&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20Views&color=22c55e&style=flat-square)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/tuhin637?label=Followers&style=flat-square&color=7c3aed)
+![Followers](https://img.shields.io/github/followers/tuhin637?label=Followers&style=flat-square&color=22c55e)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✓-22c55e?style=flat-square)
 
@@ -426,20 +426,20 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuhin637&show_icons=true&count_private=true&hide_border=true&title_color=4f46e5&icon_color=4f46e5&text_color=374151&bg_color=f9fafb&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuhin637&show_icons=true&count_private=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=374151&bg_color=f9fafb&cache_seconds=1800"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=tuhin637&hide_border=true&background=f9fafb&stroke=4f46e5&ring=4f46e5&fire=f59e0b&currStreakLabel=4f46e5&sideLabels=374151&dates=374151&sideNums=4f46e5&currStreakNum=4f46e5"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin637&layout=compact&hide_border=true&title_color=4f46e5&text_color=374151&bg_color=f9fafb&langs_count=8&cache_seconds=1800"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin637&layout=compact&hide_border=true&title_color=22c55e&text_color=374151&bg_color=f9fafb&langs_count=8&cache_seconds=1800"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin637&bg_color=f9fafb&color=4f46e5&line=4f46e5&point=4f46e5&area=true&hide_border=true&title=Contribution+Graph"/>
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin637&bg_color=f9fafb&color=22c55e&line=4f46e5&point=4f46e5&area=true&hide_border=true&title=Contribution+Graph"/>
 </div>
 
 <br>
@@ -544,7 +544,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20Views&color=4f46e5&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20Views&color=22c55e&style=for-the-badge)
 
 <br>
 
@@ -564,5 +564,5 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0a3e,100:0d0d1a&height=160&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2d1a,50:0a1f0a,100:0d0d1a&height=160&section=footer&animation=fadeIn" width="100%"/>
 </div>
