@@ -1,3 +1,71 @@
+<!-- Header Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=280&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=55&fontColor=00D9FF&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20Developer&descSize=20&descColor=ffffff&descAlign=50&descAlignY=56&animation=fadeIn" width="100%"/>
+</div>
+
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Welcome+to+My+Digital+Space+%F0%9F%91%8B;Building+Amazing+Web+Solutions+%F0%9F%9A%80;Code+with+Passion+%7C+Build+with+Purpose+%F0%9F%92%A1;Transforming+Ideas+into+Reality+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tuhin637&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/tuhin637?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Available%20For%20Work-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Graduated-2025-00D9FF?style=for-the-badge" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+---
+
+## 👨‍💻 About Me
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="middle">
+
+<!-- Upload the developer.png image to your GitHub repo at: tuhin637/tuhin637/assets/developer.png -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tuhin637/tuhin637/main/assets/developer.png" width="90%" alt="Developer Illustration"/>
+</div>
+
+</td>
+<td width="50%" valign="middle">
+
+<div align="center">
+
+### 👋 Hi, I'm **Tuhinuzzaman Tuhin**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=380&height=80&lines=Web+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%8E%AF;ML+Researcher+%F0%9F%A4%96" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+```yaml
+name    : MD. Tuhinuzzaman Tuhin
+located : Dhaka, Bangladesh 🇧🇩
+role    : Full Stack Web Developer
+edu     : BSc in CSE — DIU 🎓 2025
+
+interests:
+  - Web Development 🌐
+  - Machine Learning 🤖
+  - Open Source ⭐
+  - Problem Solving 🧠
+
+learning:
+  - Advanced JavaScript ⚡
+  - Deep Learning 🔬
+  - Cloud Technologies ☁️
+```
+
 </td>
 </tr>
 </table>
