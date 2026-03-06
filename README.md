@@ -3,7 +3,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=260&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20DIU%20Graduate%202025&descSize=16&descColor=7dd3fc&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,40:16213e,70:0f3460,100:533483&height=280&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20DIU%20Graduate%202025&descSize=16&descColor=e2b4ff&descAlign=50&descAlignY=65&animation=fadeIn&stroke=a855f7&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
@@ -546,5 +546,5 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,60:203a43,100:0f2027&height=160&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:0f3460,100:1a1a2e&height=160&section=footer&animation=fadeIn" width="100%"/>
 </div>
