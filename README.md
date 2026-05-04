@@ -220,7 +220,7 @@ I love crafting clean, user-friendly web applications and solving real-world pro
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](http://tastekart.lovestoblog.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)]([http://tastekart.lovestoblog.com](https://tastekart.ct.ws/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637/Tastekart)
 
 </div>
