@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a1628,60:041c0c,100:0d2218&height=350&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=60&fontColor=39ff14&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Problem%20Solver&descSize=17&descColor=7fff7f&descAlign=50&descAlignY=60&animation=twinkling&stroke=1a8c1a&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a1628,60:041c0c,100:0d2218&height=320&section=header&text=Tuhinuzzaman%20Tuhin&fontSize=52&fontColor=39ff14&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=7fff7f&descAlign=50&descAlignY=60&animation=twinkling&stroke=1a8c1a&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=580&height=55&lines=🚀+Building+the+Web%2C+One+Line+at+a+Time;🤖+ML+%26+AI+Researcher+%7C+CSE+Graduate;💡+Turning+Ideas+into+Digital+Reality;🌍+Open+Source+%7C+Bangladesh+🇧🇩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=560&height=50&lines=Building+the+Web%2C+One+Line+at+a+Time;ML+%26+AI+Researcher+%7C+CSE+Graduate+2025;Turning+Ideas+into+Digital+Reality;Open+Source+%7C+Bangladesh" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhinuzzaman-tuhin-549367396)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web-developer-portfolio-orpin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhinuzzaman-tuhin-549367396)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuhinuzzaman15-4649@diu.edu.bd)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin637)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tuhin637)
@@ -20,9 +20,9 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuhin637&label=Profile+Views&color=39ff14&style=flat-square)
-&nbsp;&nbsp;
+&nbsp;
 ![Followers](https://img.shields.io/github/followers/tuhin637?label=Followers&style=flat-square&color=39ff14)
-&nbsp;&nbsp;
+&nbsp;
 ![Open to Work](https://img.shields.io/badge/%E2%9C%85-Open%20to%20Work-39ff14?style=flat-square&labelColor=0d2218)
 
 </div>
@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" valign="middle"/> &nbsp; About Me
+## 🧑‍💻 About Me
 
 <br>
 
@@ -71,8 +71,8 @@ Coffee   : ∞ cups and counting ☕
 
 <div align="center">
 
-| 🏆 **10+ Projects** | ⭐ **2+ Years Experience** | 🎓 **CSE Graduate 2025** | ☕ **∞ Cups of Coffee** |
-|:---:|:---:|:---:|:---:|
+| 🏆 10+ Projects | ⭐ 2+ Years Exp | 🎓 CSE 2025 | 🤖 8 ML Models | ☕ ∞ Coffee |
+|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -80,7 +80,7 @@ Coffee   : ∞ cups and counting ☕
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" valign="middle"/> &nbsp; Tech Stack
+## 🛠️ Tech Stack
 
 <br>
 
@@ -89,16 +89,16 @@ Coffee   : ∞ cups and counting ☕
 ### 💻 Languages
 
 <p>
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" title="C" style="margin:10px"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" title="C++" style="margin:10px"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" title="Java" style="margin:10px"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" title="Python" style="margin:10px"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" title="JavaScript" style="margin:10px"/>
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="60" title="C" style="margin:8px"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" title="C++" style="margin:8px"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" title="Java" style="margin:8px"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" title="Python" style="margin:8px"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" title="JavaScript" style="margin:8px"/>
 </p>
 
 <br>
 
-### 🌐 Frontend & Web
+### 🌐 Frontend & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark&perline=5"/>
@@ -106,7 +106,7 @@ Coffee   : ∞ cups and counting ☕
 
 <br>
 
-### 🛠️ Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=5"/>
@@ -133,7 +133,7 @@ Coffee   : ∞ cups and counting ☕
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" valign="middle"/> &nbsp; Featured Projects
+## 💻 Featured Projects
 
 <br>
 
@@ -150,11 +150,11 @@ Coffee   : ∞ cups and counting ☕
 ### 🍕 TasteKart
 **Online Food Delivery Platform**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
@@ -186,11 +186,11 @@ Coffee   : ∞ cups and counting ☕
 ### 📚 Library Management System
 **Smart Library with AI Features**
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </div>
 
@@ -233,14 +233,14 @@ Coffee   : ∞ cups and counting ☕
 ### 🛒 ShopHub
 *E-Commerce Platform*
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br><br>
+<br>
 
-`Product Catalog` `Shopping Cart`  
-`Order Management` `Responsive Design`
+`Product Catalog` `Shopping Cart`
+`Order Management` `Responsive`
 
 <br>
 
@@ -253,13 +253,13 @@ Coffee   : ∞ cups and counting ☕
 ### ☕ BrewLab
 *Coffee Shop Landing Page*
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br><br>
+<br>
 
-`Dynamic Animations` `Product Catalog`  
+`Dynamic Animations` `Product Catalog`
 `Modern UI` `Responsive Layout`
 
 <br>
@@ -273,13 +273,13 @@ Coffee   : ∞ cups and counting ☕
 ### 🐦 BirdScape
 *Interactive Photo Carousel*
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br><br>
+<br>
 
-`Smooth Animations` `Auto-play`  
+`Smooth Animations` `Auto-play`
 `Interactive Controls` `Responsive`
 
 <br>
@@ -301,23 +301,21 @@ Coffee   : ∞ cups and counting ☕
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-
 ## 🫀 Heart Disease Prediction Using Machine Learning
 
 **Daffodil International University | BSc Thesis 2025**
 
-*Supervisor: Ms. Tasfia Anika Bushra — Lecturer, Dept. of CSE*
+*Supervisor: Ms. Tasfia Anika Bushra — Lecturer, Dept. of CSE, DIU*
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<br><br>
+<br>
 
 ```
 🌲 Random Forest   |   🔵 KNN          |   ⚡ XGBoost        |   📋 RuleNet
@@ -337,7 +335,7 @@ Coffee   : ∞ cups and counting ☕
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" valign="middle"/> &nbsp; GitHub Statistics
+## 📊 GitHub Statistics
 
 <br>
 
@@ -372,7 +370,7 @@ Coffee   : ∞ cups and counting ☕
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" width="35" valign="middle"/> &nbsp; Beyond Code
+## 🙌 Beyond Code
 
 <br>
 
@@ -380,28 +378,28 @@ Coffee   : ∞ cups and counting ☕
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="70"/>
   <br><br>
   <strong>🩸 Blood Donor</strong>
   <br>
   <sub>Regular donor for<br>community health</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/>
   <br><br>
   <strong>🔐 Cyber Security</strong>
   <br>
   <sub>Learning & sharing<br>cybersecurity knowledge</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70"/>
   <br><br>
   <strong>💻 Programming Club</strong>
   <br>
   <sub>Coding competitions<br>& hackathon participant</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/216644517-ca32e833-f1ca-4c90-a93d-16aa7e959788.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644517-ca32e833-f1ca-4c90-a93d-16aa7e959788.gif" width="70"/>
   <br><br>
   <strong>🤝 Volunteering</strong>
   <br>
@@ -417,7 +415,7 @@ Coffee   : ∞ cups and counting ☕
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35" valign="middle"/> &nbsp; Let's Connect
+## 📞 Let's Connect
 
 <br>
 
