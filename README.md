@@ -37,21 +37,36 @@
 
 ## `$ cat profile.yaml`
 
+<br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```yaml
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   name        : Tuhinuzzaman Tuhin                                       ║
-║   alias       : tuhin637                                                 ║
-║   location    : Dhaka, Bangladesh 🇧🇩                                    ║
-║   university  : Daffodil International University                        ║
-║   degree      : BSc CSE — Class of 2025 🎓                               ║
-║   role        : Full Stack Developer & ML Researcher                     ║
-║   thesis      : Heart Disease Prediction using ML 🫀                     ║
-║   status      : open_to_work ✅                                           ║
-║   coffee      : Infinity ☕   # no cap                                    ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║  name       : Tuhinuzzaman Tuhin                 ║
+║  alias      : tuhin637                           ║
+║  location   : Dhaka, Bangladesh 🇧🇩              ║
+║  university : Daffodil International University  ║
+║  degree     : BSc CSE — Class of 2025 🎓         ║
+║  role       : Full Stack Dev & ML Researcher     ║
+║  thesis     : Heart Disease Prediction 🫀        ║
+║  status     : open_to_work ✅                     ║
+║  coffee     : Infinity ☕  # no cap               ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
