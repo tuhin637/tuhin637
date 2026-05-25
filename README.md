@@ -173,7 +173,7 @@
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-39ff14?style=for-the-badge&labelColor=050b0f)](https://tastekart.ct.ws/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-39ff14?style=for-the-badge&labelColor=050b0f)](https://tastekart.infinityfreeapp.com/)
 [![Source](https://img.shields.io/badge/◈_Source-161b22?style=for-the-badge&logo=github)](https://github.com/tuhin637/Tastekart)
 
 </div>
