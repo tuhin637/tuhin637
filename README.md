@@ -213,6 +213,43 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏥 MediConnect BD
+**Telemedicine & Doctor Appointment**
+
+<img src="https://img.shields.io/badge/FULL_STACK-39ff14?style=flat-square&labelColor=050b0f"/>
+
+</div>
+
+```
+▸ Doctor Appointment Booking
+▸ Real-time Video via WebRTC
+▸ Patient Management System
+▸ Dual Portal (Doctor & Patient)
+▸ Prescription & History Tracking
+▸ Fully Responsive UI
+```
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-39ff14?style=for-the-badge&labelColor=050b0f)](https://mediconnectbd.gt.tc/public/index.php)
+[![Source](https://img.shields.io/badge/◈_Source-161b22?style=for-the-badge&logo=github)](https://github.com/tuhin637/mediconnect)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <br>
@@ -306,9 +343,11 @@
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║                                                                           ║
 ║   Models Implemented:                                                     ║
-║   ▸ Random Forest    ▸ XGBoost    ▸ KNN         ▸ SVM                    ║
-║   ▸ Decision Tree    ▸ Naive Bayes              ▸ Logistic Regression     ║
-║   ▸ RuleNet (Custom Model)                                                ║
+║   ▸ Random Forest    ▸ XGBoost         ▸ KNN        ▸ SVM                ║
+║   ▸ Decision Tree    ▸ Naive Bayes     ▸ Logistic Regression             ║
+║   ▸ Deep Learning (Neural Network)    ▸ RuleNet (Custom Model)           ║
+║                                                                           ║
+║   Best Accuracy: ~98% — Deep Learning Model                              ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
