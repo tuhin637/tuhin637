@@ -48,7 +48,7 @@
 ║                                                  ║
 ║  name       : Tuhinuzzaman Tuhin                 ║
 ║  alias      : tuhin637                           ║
-║  location   : Dhaka, Bangladesh 🇧🇩              ║
+║  location   : Dhaka, Bangladesh              ║
 ║  university : Daffodil International University  ║
 ║  degree     : BSc CSE — Class of 2025 🎓         ║
 ║  role       : Full Stack Dev & ML Researcher     ║
